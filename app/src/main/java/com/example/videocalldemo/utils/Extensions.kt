@@ -1,0 +1,4 @@
+package com.example.videocalldemo.utils
+
+const val APP_ID = "5e7fae10fd01462abc7f7342c6a926f4"
+const val token = "0065e7fae10fd01462abc7f7342c6a926f4IAAVQ9hBZ0S/NmnV0SJWUt6JxtkdEffaaI66r1YHjnrEfPTprekAAAAAEAC8e3FnPa3XYgEAAQA9rddi"
